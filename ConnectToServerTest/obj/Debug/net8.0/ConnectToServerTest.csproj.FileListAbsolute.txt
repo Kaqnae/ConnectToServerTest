@@ -1,0 +1,14 @@
+C:\C# Rider\ConnectToServerTest\ConnectToServerTest\obj\Debug\net8.0\ConnectToServerTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Rider\ConnectToServerTest\ConnectToServerTest\obj\Debug\net8.0\ConnectToServerTest.AssemblyInfoInputs.cache
+C:\C# Rider\ConnectToServerTest\ConnectToServerTest\obj\Debug\net8.0\ConnectToServerTest.AssemblyInfo.cs
+C:\C# Rider\ConnectToServerTest\ConnectToServerTest\obj\Debug\net8.0\ConnectToServerTest.csproj.CoreCompileInputs.cache
+C:\C# Rider\ConnectToServerTest\ConnectToServerTest\bin\Debug\net8.0\ConnectToServerTest.exe
+C:\C# Rider\ConnectToServerTest\ConnectToServerTest\bin\Debug\net8.0\ConnectToServerTest.deps.json
+C:\C# Rider\ConnectToServerTest\ConnectToServerTest\bin\Debug\net8.0\ConnectToServerTest.runtimeconfig.json
+C:\C# Rider\ConnectToServerTest\ConnectToServerTest\bin\Debug\net8.0\ConnectToServerTest.dll
+C:\C# Rider\ConnectToServerTest\ConnectToServerTest\bin\Debug\net8.0\ConnectToServerTest.pdb
+C:\C# Rider\ConnectToServerTest\ConnectToServerTest\obj\Debug\net8.0\ConnectToServerTest.dll
+C:\C# Rider\ConnectToServerTest\ConnectToServerTest\obj\Debug\net8.0\refint\ConnectToServerTest.dll
+C:\C# Rider\ConnectToServerTest\ConnectToServerTest\obj\Debug\net8.0\ConnectToServerTest.pdb
+C:\C# Rider\ConnectToServerTest\ConnectToServerTest\obj\Debug\net8.0\ConnectToServerTest.genruntimeconfig.cache
+C:\C# Rider\ConnectToServerTest\ConnectToServerTest\obj\Debug\net8.0\ref\ConnectToServerTest.dll
